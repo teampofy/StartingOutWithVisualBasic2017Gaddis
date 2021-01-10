@@ -1,5 +1,5 @@
 ﻿Public Class Form1
-
+    'I have made a change for testing purposes.
     Private Sub btnCalculate_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCalculate.Click
         ' This prodecure calculates the average race time of
         ' three runners and displays the average in lblAverageTime.
